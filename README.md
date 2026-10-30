@@ -4,6 +4,8 @@
 
 Windhawk Backup Suite is a lightweight, high-performance Windows tool built in pure C++ that lets you create complete snapshots of your installed Windhawk mods, configurations, and source files into portable archives with just a few clicks.
 
+<img width="1672" height="940" alt="Windhawk Backup Suite Interface" src="https://github.com/user-attachments/assets/54de0d34-08bb-4a2b-96f8-c57dce91dfeb" />
+
 ---
 
 ## 🚀 Why Windhawk Backup Suite?
